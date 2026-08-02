@@ -173,6 +173,3 @@ The root cause was that the DNS server was not resolving to the domain controlle
 
 This lab is on-premises style Active Directory, running on a server I manage. Modern cloud-first organisations often do the equivalent with Microsoft Entra ID and Intune instead, managing identity and devices over the internet rather than through a local domain controller. The goals are the same, central identity and central control, and building this lab helped me understand both the traditional and the cloud approach.
 
-## About me
-
-I am a data analyst moving into IT support and cybersecurity, currently completing the Google Cybersecurity Certificate and the TryHackMe SOC Level 1 pathway. This lab is part of that journey.
